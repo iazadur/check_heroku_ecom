@@ -30,5 +30,4 @@ virtualenv==20.4.7
 virtualenvwrapper-win==1.2.6
 whitenoise==5.2.0
 wrapt==1.11.2
-distribute==0.6.24
-setuptools==0.7.3
+
